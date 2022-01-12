@@ -27,7 +27,7 @@
     <!--mysql驱动包-->
     <mysql-connector-java.version>8.0.21</mysql-connector-java.version>
     <!--springframework-->
-    <org.springframework.version>5.2.7.RELEASE</org.springframework.version>
+    <org.springframework.version>5.3.14</org.springframework.version>
     <!--其他需要的包-->
     <commons-lang3.version>3.10</commons-lang3.version>
     <!-- 阿里巴巴对象和json相互转换 -->
