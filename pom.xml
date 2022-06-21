@@ -25,7 +25,7 @@
     <jsp-api.version>2.2.1-b03</jsp-api.version>
     <jstl.version>1.2</jstl.version>
     <!--mysql驱动包-->
-    <mysql-connector-java.version>8.0.21</mysql-connector-java.version>
+    <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
     <!--springframework-->
     <org.springframework.version>5.2.7.RELEASE</org.springframework.version>
     <!--其他需要的包-->
